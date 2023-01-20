@@ -1,1 +1,1 @@
-# Using HTML to create a Resume Website.
+# Using HTML to create a resume website.
